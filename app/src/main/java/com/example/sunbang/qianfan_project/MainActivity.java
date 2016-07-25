@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int currentPage = 0;
 
+    private String inde;
     private FragmentManager manager;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
